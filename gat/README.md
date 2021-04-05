@@ -10,6 +10,7 @@ This is an improvement of the  [(GAT with NeighborSampling)](https://github.com/
 #### Improvement Strategy：
 
 + add C&S method
++ add BatchNorm
 
 #### Environmental Requirements
 
