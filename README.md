@@ -5,6 +5,6 @@ This is the implement and improvement code of ogbn-products.
 + Dataset: ogbn-products.
 
 | Folder | Related models |
-| ------ | -------------- |
+| :-: | :-: |
 | gat    | GAT w/NS       |
-
+| sage    | GraphSAGE w/NS       |
