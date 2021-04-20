@@ -1,6 +1,8 @@
 # GraphSAGE w/NS + C&S + node2vec
 This is an improvement of the  [(NeighborSampling (SAGE aggr))](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ogbn_products_sage.py)  model, using the C&S method and node2vec embedding. 
 
+[**Check out the OGBn-Products LeaderBoard!**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
+
 ### ogbn-products
 
 + Check out the model： [(NeighborSampling (SAGE aggr))](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ogbn_products_sage.py) 
