@@ -3,6 +3,8 @@ This is an improvement of the  [(NeighborSampling (SAGE aggr))](https://github.c
 
 [**Check out the OGBn-Products LeaderBoard!**](https://ogb.stanford.edu/docs/leader_nodeprop/#ogbn-products)
 
+Our paper is available at [https://arxiv.org/pdf/2105.08330.pdf](https://arxiv.org/pdf/2105.08330.pdf).
+
 ### ogbn-products
 
 + Check out the model： [(NeighborSampling (SAGE aggr))](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/ogbn_products_sage.py) 
