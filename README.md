@@ -9,3 +9,4 @@ This is the implement and improvement code of ogbn-products.
 | gat    | GAT w/NS       |
 | sage    | GraphSAGE w/NS + C&S      |
 | sage+node2vec    | GraphSAGE w/NS + C&S + node2vec    |
+| spectral+mlp+cs   | Spec-MLP-Wide + C&S_pyg    |
